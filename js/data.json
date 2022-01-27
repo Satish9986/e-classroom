@@ -1,0 +1,86 @@
+{
+	"ram": [
+		{
+		  "id": 1,
+		  "course_id": 1,
+		  "title": "fgdrf tgdf",
+		  "category_name": "ram",
+		  "link": "http://127.0.0.1:8000/storage/course/3NgDyTMhrDJ2jalNMwiHGcZP8zS60BuzrZhAvTEl.jpg",
+		  "document": "HVlkkKpXdw2buBCQ0eUntbqgqndXy8rfLGRBpldH.pdf",
+		  "created_at": "2022-01-02T12:51:28.000000Z",
+		  "updated_at": "2022-01-02T12:51:28.000000Z"
+		},
+		{
+		  "id": 2,
+		  "course_id": 1,
+		  "title": " ytrfy rt",
+		  "category_name": "ram",
+		  "link": "http://127.0.0.1:8000/storage/course/3NgDyTMhrDJ2jalNMwiHGcZP8zS60BuzrZhAvTEl.jpg",
+		  "document": "HVlkkKpXdw2buBCQ0eUntbqgqndXy8rfLGRBpldH.pdf",
+		  "created_at": "2022-01-02T12:51:28.000000Z",
+		  "updated_at": "2022-01-02T12:51:28.000000Z"
+		},
+		{
+		  "id": 5,
+		  "course_id": 1,
+		  "title": "hb6456bh",
+		  "category_name": "ram",
+		  "link": "http://127.0.0.1:8000/storage/course/3NgDyTMhrDJ2jalNMwiHGcZP8zS60BuzrZhAvTEl.jpg",
+		  "document": "HVlkkKpXdw2buBCQ0eUntbqgqndXy8rfLGRBpldH.pdf",
+		  "created_at": "2022-01-02T12:51:28.000000Z",
+		  "updated_at": "2022-01-02T12:51:28.000000Z"
+		},
+		{
+		  "id": 8,
+		  "course_id": 1,
+		  "title": "hb6456bh",
+		  "category_name": "ram",
+		  "link": "http://127.0.0.1:8000/storage/course/3NgDyTMhrDJ2jalNMwiHGcZP8zS60BuzrZhAvTEl.jpg",
+		  "document": "HVlkkKpXdw2buBCQ0eUntbqgqndXy8rfLGRBpldH.pdf",
+		  "created_at": "2022-01-02T12:51:28.000000Z",
+		  "updated_at": "2022-01-02T12:51:28.000000Z"
+		}
+	],
+	"sita" : [
+		{
+		  "id": 1,
+		  "course_id": 1,
+		  "title": "hb6456bh",
+		  "category_name": "sita",
+		  "link": "http://127.0.0.1:8000/storage/course/3NgDyTMhrDJ2jalNMwiHGcZP8zS60BuzrZhAvTEl.jpg",
+		  "document": "HVlkkKpXdw2buBCQ0eUntbqgqndXy8rfLGRBpldH.pdf",
+		  "created_at": "2022-01-02T12:51:28.000000Z",
+		  "updated_at": "2022-01-02T12:51:28.000000Z"
+		},
+		{
+		  "id": 2,
+		  "course_id": 1,
+		  "title": "hb6456bh",
+		  "category_name": "sita",
+		  "link": "http://127.0.0.1:8000/storage/course/3NgDyTMhrDJ2jalNMwiHGcZP8zS60BuzrZhAvTEl.jpg",
+		  "document": "HVlkkKpXdw2buBCQ0eUntbqgqndXy8rfLGRBpldH.pdf",
+		  "created_at": "2022-01-02T12:51:28.000000Z",
+		  "updated_at": "2022-01-02T12:51:28.000000Z"
+		},
+		{
+		  "id": 3,
+		  "course_id": 1,
+		  "title": "hb6456bh",
+		  "category_name": "sita",
+		  "link": "http://127.0.0.1:8000/storage/course/3NgDyTMhrDJ2jalNMwiHGcZP8zS60BuzrZhAvTEl.jpg",
+		  "document": "HVlkkKpXdw2buBCQ0eUntbqgqndXy8rfLGRBpldH.pdf",
+		  "created_at": "2022-01-02T12:51:28.000000Z",
+		  "updated_at": "2022-01-02T12:51:28.000000Z"
+		},
+		{
+		  "id": 4,
+		  "course_id": 1,
+		  "title": "hb6456bh",
+		  "category_name": "sita",
+		  "link": "http://127.0.0.1:8000/storage/course/3NgDyTMhrDJ2jalNMwiHGcZP8zS60BuzrZhAvTEl.jpg",
+		  "document": "HVlkkKpXdw2buBCQ0eUntbqgqndXy8rfLGRBpldH.pdf",
+		  "created_at": "2022-01-02T12:51:28.000000Z",
+		  "updated_at": "2022-01-02T12:51:28.000000Z"
+		}
+	]
+}

@@ -1,0 +1,576 @@
+
+
+/*------- Responsive media ---------*/
+
+@media only screen and (min-width: 320px) and (max-width: 475px){
+     .main_menu .main-menu-item .nav-item a {
+    padding: 10px 10px !important;
+}
+.logoimg {
+    width: 173px!important;
+}
+li.mtt-2 {
+    position: absolute;
+    margin-top: -35px;
+    right: 22px;
+}
+  .banner_text {
+    width: 100%;
+    padding: 0px;
+}
+
+.banner_part {
+    margin-top: -29px;
+}
+.banner_text h2 {
+  width: 80%;
+  font-size: 20px;
+}
+.banner_text h5 {
+    font-size: 4.5vw;
+    display: none;
+}
+.btn_1 {
+    padding: 3px 20px 3px 20px!important;
+    margin-top: 15px!important;
+    font-size: 15px!important;
+}
+.about_video_container button {
+    margin-bottom: 10px;
+}
+.testimonial_part .testimonial_slider_text {
+    padding: 5px 33px;
+}
+
+.faq {
+    padding: 5px;
+    width: 100%;
+    margin-top: 15px;
+}
+
+
+
+
+.testimonial_slider_img {
+    padding: 30px 30px;
+    background-image: linear-gradient(to left, #ee390f 0%, #E8A328 51%, #ee390f 100%);
+    border-radius: 4px;
+}
+.owl-carousel .owl-item img {
+    border-radius: 10px;
+} 
+.justify-content-between p {
+    text-align: justify;
+    margin-left: 10px;
+}
+.justify-content-between .logoimg {
+    width: 215px;
+    margin-left: 10px;
+}
+.owl-next {margin-right: 90%!important;}
+
+.learning_part .owl-next {
+    float: left;
+    margin-left: 70%;
+}
+
+.section_tittle h2:after {
+    bottom: -4px;
+}
+
+.about_text_container ul li {
+    text-align: justify;
+}
+
+/*----- About us ------*/
+
+.banner_part_about {
+    margin-top: -20px;
+    height: 215px;
+}
+.purpose_section{
+    padding: 15px;
+}
+.about_text_container p {
+    text-align: justify;
+}
+.purpose_section_list li {
+    text-align: justify;
+}
+.educator_section_heading {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+}
+.educator_section_info {
+    text-align: justify;
+}
+
+.course_feature_card {
+    margin-top: 15px;
+    border-radius: 19px;
+}
+
+/*----- Contact us ------*/
+.contact1 .btn_1 {
+    padding: 9px 20px 10px 20px!important;
+    margin-top: 15px!important;
+    font-size: 15px!important;
+}
+.contact1 .fa-envelope-open-text:before {
+    content: "\f658";
+    padding: 10px;
+}
+.contact1 .banner_text h2 {
+    width: 80%;
+    font-size: 30px;
+}
+.contact-section .contact-title {
+    font-size: 30px!important;
+    margin-bottom: -2px!important;
+    margin-top: -42px!important;
+}
+
+.contact-us1 {
+    border-radius: 0px;
+}
+
+
+#nav-tabs-wrapper {
+    display: block!important;
+    margin-top: 15px!important;
+}
+
+.courses h1 {
+    margin-top: 0%;
+    margin-bottom: 8px!important;
+}
+.tab-content {
+    margin-top: 4%;
+    text-align: center;
+     padding: 10px;
+}
+
+.myorder {
+    padding: 20px;
+}
+
+
+.course-feature .card {
+    margin: 5px;
+    padding: 0px;
+}
+.v-card {
+    width: 50%;
+}
+.i-card {
+    margin-top: 15px;
+}
+.t-card {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.t-card h4{
+    font-size: 14px;
+}
+.course-feature .card:hover {
+    height: 135px;}
+
+}
+
+
+
+@media only screen and (min-width: 480px) and (max-width: 639px){
+     .main_menu .main-menu-item .nav-item a {
+    padding: 10px 10px !important;
+}
+li.mtt-2 {
+    position: absolute;
+    margin-top: -35px;
+    right: 22px;
+}
+
+    .owl-next {margin-right: 90%!important;}
+    .learning_part .owl-next {
+    float: left;
+    margin-left: 78%;
+}
+
+.section_tittle h2:after {
+    bottom: -4px;
+}
+.banner_part {
+    margin-top: -24px;
+}
+.hindi {
+    margin-top: 15px!important;
+}
+.faq {
+    padding: 5px;
+    width: 100%;
+    margin-top: 15px;
+}
+
+/*----- About us ------*/
+.banner_text h2 {
+    width: 93%;
+}
+.banner_part_about {
+    margin-top: -20px;
+    height: 250px;
+
+}
+.purpose_section{
+    padding: 15px;
+}
+.about_text_container p {
+    text-align: justify;
+}
+.purpose_section_list li {
+    text-align: justify;
+}
+.educator_section_heading {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+}
+.educator_section_info {
+    text-align: justify;
+}
+.btn_1 {
+    padding: 0px 24px;
+    font-size: 14px;
+}
+.course_feature_card {
+    margin-top: 15px;
+    border-radius: 19px;
+}
+/*----- Contact us ------*/
+.contact1 .btn_1 {
+    padding: 9px 20px 10px 20px!important;
+    margin-top: 15px!important;
+    font-size: 15px!important;
+}
+.contact1 .fa-envelope-open-text:before {
+    content: "\f658";
+    padding: 10px;
+}
+.contact1 .banner_text h2 {
+    width: 80%;
+    font-size: 30px;
+}
+.contact-section .contact-title {
+    font-size: 30px!important;
+    margin-bottom: -2px!important;
+    margin-top: -42px!important;
+}
+
+.contact-us1 {
+    border-radius: 0px;
+}
+
+
+#nav-tabs-wrapper {
+    display: block!important;
+    margin-top: 15px!important;
+}
+.tab-content {
+    text-align: center;
+    padding: 15px;
+}
+.courses h1 {
+    margin-top: 0%;
+    margin-bottom: 8px!important;
+}
+
+
+.course-feature .card {
+    margin: 5px;
+    padding: 0px;
+}
+.v-card {
+    width: 50%;
+}
+.i-card {
+    margin-top: 15px;
+}
+.t-card {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.t-card h4{
+    font-size: 16px;
+}
+.course-feature .card:hover {
+    height: 135px;}
+
+
+
+}
+
+
+@media only screen and (min-width: 640px) and (max-width: 767px){
+     .main_menu .main-menu-item .nav-item a {
+    padding: 10px 10px !important;
+}
+
+li.mtt-2 {
+    position: absolute;
+    margin-top: -22px;
+    right: 22px;
+}
+    .owl-next {margin-right: 80%!important;}
+    .learning_part .owl-next {
+        float: left;
+        margin-left: 82%;
+}
+.section_tittle h2:after {
+    bottom: -4px;
+}
+    .banner_part {
+    margin-top: -28px;
+}
+    .hindi {
+    margin-top: 15px!important;
+}
+.faq {
+    padding: 5px;
+    width: 100%;
+    margin-top: 15px;
+}
+
+
+/*----- About us ------*/
+.banner_text h2 {
+    width: 62%;
+}
+.banner_part_about {
+    margin-top: -20px;
+    height: 250px;
+
+}
+.purpose_section{
+    padding: 15px;
+}
+.about_text_container p {
+    text-align: justify;
+}
+.purpose_section_list li {
+    text-align: justify;
+}
+.educator_section_heading {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+}
+.educator_section_info {
+    text-align: justify;
+}
+.btn_1 {
+    padding: 0px 24px;
+    font-size: 14px;
+}
+.course_feature_card {
+    margin-top: 15px;
+    border-radius: 19px;
+}
+/*----- Contact us ------*/
+.contact1 .btn_1 {
+    padding: 9px 20px 10px 20px!important;
+    margin-top: 15px!important;
+    font-size: 15px!important;
+}
+.contact1 .fa-envelope-open-text:before {
+    content: "\f658";
+    padding: 10px;
+}
+.contact1 .banner_text h2 {
+    width: 80%;
+    font-size: 30px;
+}
+.contact-section .contact-title {
+    font-size: 30px!important;
+    margin-bottom: -2px!important;
+    margin-top: -42px!important;
+}
+
+.contact-us1 {
+    border-radius: 0px;
+}
+
+
+#nav-tabs-wrapper {
+    display: block!important;
+    margin-top: 15px!important;
+}
+.courses h1 {
+    margin-top: 0%;
+    margin-bottom: 8px!important;
+}
+.tab-content {
+    margin-top: 4%;
+    text-align: center;
+     padding: 20px;
+}
+
+
+.course-feature .card {
+    margin: 5px;
+    padding: 0px;
+}
+.v-card {
+    width: 50%;
+}
+.i-card {
+    margin-top: 15px;
+}
+.t-card {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.t-card h4{
+    font-size: 18px;
+}
+.course-feature .card:hover {
+    height: 135px;}
+
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px){
+
+    .main_menu .main-menu-item .nav-item a {
+    padding: 10px 10px !important;
+}
+li.mtt-2 {
+    position: absolute;
+    margin-top: -20px;
+    right: 22px;
+}
+.banner_part {
+    margin-top: -23px;
+}
+    .owl-next {margin-right: 75%!important;}
+
+    .learning_part .owl-next {
+    float: left;
+    margin-left: 88%;
+}
+  .hindi {
+    margin-top: 15px!important;
+}
+.faq {
+    padding: 5px;
+    width: 100%;
+    margin-top: 15px;
+}
+
+
+/*----- About us ------*/
+.banner_text h2 {
+    width: 60%;
+}
+.banner_part_about {
+    margin-top: -20px;
+    height: 250px;
+
+}
+.purpose_section{
+    padding: 15px;
+}
+.about_text_container p {
+    text-align: justify;
+}
+.purpose_section_list li {
+    text-align: justify;
+}
+.educator_section_heading {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+}
+.educator_section_info {
+    text-align: justify;
+}
+.btn_1 {
+    padding: 0px 24px;
+    font-size: 14px;
+}
+.course_feature_card {
+    margin-top: 15px;
+    border-radius: 19px;
+}
+/*----- Contact us ------*/
+.contact1 .btn_1 {
+    padding: 9px 20px 10px 20px!important;
+    margin-top: 15px!important;
+    font-size: 15px!important;
+}
+.contact1 .fa-envelope-open-text:before {
+    content: "\f658";
+    padding: 10px;
+}
+.contact1 .banner_text h2 {
+    width: 80%;
+    font-size: 30px;
+}
+.contact-section .contact-title {
+    font-size: 30px!important;
+    margin-bottom: -2px!important;
+    margin-top: -42px!important;
+}
+
+.contact-us1 {
+    border-radius: 0px;
+}
+
+
+#nav-tabs-wrapper {
+    display: block!important;
+    margin-top: 15px!important;
+}
+
+.courses h1 {
+    margin-top: 0%;
+    margin-bottom: 8px!important;
+}
+.tab-content {
+    margin-top: 4%;
+    text-align: center;
+}
+
+
+.course-feature .card {
+    margin: 5px;
+    padding: 0px;
+}
+.v-card {
+    width: 50%;
+}
+.i-card {
+    margin-top: 15px;
+}
+.t-card {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.t-card h4{
+    font-size: 18px;
+}
+.course-feature .card:hover {
+    height: 135px;}
+
+
+
+
+
+
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px){
+.section_tittle h2:after {
+    bottom: -6px;
+}
+}
